@@ -1,7 +1,7 @@
 # The Top 100 Colors
 
-There are the best top 100 colors with hex colors code. You can find the best popular colors. 
-
+There are the best top 100 colors with hex colors code. You can find the best popular colors.
+Some of the best colors are below:
 
 
 
