@@ -14,6 +14,7 @@ Some of the best colors are below:
                  value of its RGB is 255.
 + ***#0000ff:*** This color name is Blue1 color. #0000ff hex color red value is 0, green value is 0 and the blue 
                  value of its RGB is 255.
++ ***#8b0000:*** Dark Red - #8b0000 Hex Code, Shades and Complementary Colors.
 
 -----
 
