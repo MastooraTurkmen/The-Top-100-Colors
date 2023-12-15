@@ -57,3 +57,5 @@ $ cd The-Top-100-Colors
 ------
 
 
+## Languages and Tools are used 🗣️🔧
+ 
