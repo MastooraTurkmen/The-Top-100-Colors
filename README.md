@@ -64,3 +64,5 @@ $ cd The-Top-100-Colors
     + [HTML5](https://github.com/topics/html5)
     + [CSS](https://github.com/topics/css)
     + [CSS3](https://github.com/topics/css3)
+    + [React](https://github.com/topics/react)
+    + [JavaScript](https://github.com/topics/javascript)
