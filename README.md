@@ -1,4 +1,4 @@
-# co5c045489df3be530dee9060
+# The Top 100 Colors
 
 Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
 
