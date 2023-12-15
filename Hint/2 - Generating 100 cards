@@ -1,0 +1,52 @@
+What kind of method enables you to take an array of x number of things and create another array of the same number of other things?
+
+🚨 Spoiler alert! ️️⬇️ Scroll down to line 50 if you want another hint — but consider trying to figure this out on your own more first! 🚨
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hint hint, nudge nudge: 🗺 
+
+(That's a map, in case it isn't clear!)

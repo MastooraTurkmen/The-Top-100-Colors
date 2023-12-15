@@ -1,0 +1,1 @@
+I would recommend approaching this task in reverse. Start with the ColorCard component. What kind of data needs to be dynamically inserted into it where information is currently being hardcoded? From there, you can figure out what kind of props you need to set up and pass into it.  
