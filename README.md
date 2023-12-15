@@ -13,6 +13,10 @@ Some of the best colors are below:
 + #ffffff: This color name is White color. #ffffff hex color red value is 255, green value is 255 and the blue 
             value of its RGB is 255.
 
+
+-----
+
+
 ## Before you Begin 🛠 🔨
 
 Quick start:
@@ -48,3 +52,8 @@ $ git clone https://github.com/MastooraTurkmen/The-Top-100-Colors.git
 # Go inside the repository
 $ cd The-Top-100-Colors
 ```
+
+
+------
+
+
