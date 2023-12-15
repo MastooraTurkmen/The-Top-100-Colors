@@ -2,7 +2,10 @@
 
 There are the best top 100 colors with hex colors code. You can find the best popular colors. 
 
-Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
+
+
+
+## Before you Begin 🛠 🔨
 
 Quick start:
 
