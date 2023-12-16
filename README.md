@@ -21,7 +21,7 @@ Some of the best colors are below:
 
 ## Screenshots
 
-![Alt text](./images/image.png)
+![Color-Site-Screenshots](./images/image.png)
 ![Alt text](./images/image-1.png)
 ![Alt text](./images/image-2.png)
 ![Alt text](./images/image-3.png)
