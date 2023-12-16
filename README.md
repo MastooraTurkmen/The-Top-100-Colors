@@ -21,7 +21,7 @@ Some of the best colors are below:
 
 ## Screenshots
 
-
+![Alt text](image.png)
 
 
 ## Before you Begin 🛠 🔨
