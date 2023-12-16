@@ -33,7 +33,7 @@ Some of the best colors are below:
 ![Alt text](./images/image-9.png)
 ![Alt text](./images/image-10.png)
 ![Alt text](./images/image-11.png)
-![Alt text](image-12.png)
+![Alt text](./images/image-12.png)
 ![Alt text](image-13.png)
 
 ## Before you Begin 🛠 🔨
