@@ -26,7 +26,7 @@ Some of the best colors are below:
 ![Color-Site-Screenshots](./images/image-2.png)
 ![Color-Site-Screenshots](./images/image-3.png)
 ![Color-Site-Screenshots](./images/image-4.png)
-![Alt text](./images/image-5.png)
+![Color-Site-Screenshots](./images/image-5.png)
 ![Alt text](./images/image-6.png)
 ![Alt text](./images/image-7.png)
 ![Alt text](./images/image-8.png)
