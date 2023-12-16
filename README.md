@@ -31,7 +31,7 @@ Some of the best colors are below:
 ![Alt text](./images/image-7.png)
 ![Alt text](./images/image-8.png)
 ![Alt text](./images/image-9.png)
-![Alt text](image-10.png)
+![Alt text](./images/image-10.png)
 ![Alt text](image-11.png)
 ![Alt text](image-12.png)
 ![Alt text](image-13.png)
